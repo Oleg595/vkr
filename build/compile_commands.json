@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/oleg/Documents/vkr/build",
+  "command": "/usr/bin/g++ -isystem /home/oleg/Documents/vkr/vcpkg/installed/x64-linux/include/libusb-1.0 -isystem /home/oleg/Documents/vkr/vcpkg/installed/x64-linux/include -isystem /usr/local/include/opencv4 -g -std=gnu++11 -o CMakeFiles/vkr.dir/main.cpp.o -c /home/oleg/Documents/vkr/main.cpp",
+  "file": "/home/oleg/Documents/vkr/main.cpp"
+},
+{
+  "directory": "/home/oleg/Documents/vkr/build",
+  "command": "/usr/bin/g++ -isystem /home/oleg/Documents/vkr/vcpkg/installed/x64-linux/include/libusb-1.0 -isystem /home/oleg/Documents/vkr/vcpkg/installed/x64-linux/include -isystem /usr/local/include/opencv4 -g -std=gnu++11 -o CMakeFiles/vkr.dir/get_data_module/src/frame_processor.cpp.o -c /home/oleg/Documents/vkr/get_data_module/src/frame_processor.cpp",
+  "file": "/home/oleg/Documents/vkr/get_data_module/src/frame_processor.cpp"
+},
+{
+  "directory": "/home/oleg/Documents/vkr/build",
+  "command": "/usr/bin/g++ -isystem /home/oleg/Documents/vkr/vcpkg/installed/x64-linux/include/libusb-1.0 -isystem /home/oleg/Documents/vkr/vcpkg/installed/x64-linux/include -isystem /usr/local/include/opencv4 -g -std=gnu++11 -o CMakeFiles/vkr.dir/get_data_module/src/device.cpp.o -c /home/oleg/Documents/vkr/get_data_module/src/device.cpp",
+  "file": "/home/oleg/Documents/vkr/get_data_module/src/device.cpp"
+},
+{
+  "directory": "/home/oleg/Documents/vkr/build",
+  "command": "/usr/bin/g++ -isystem /home/oleg/Documents/vkr/vcpkg/installed/x64-linux/include/libusb-1.0 -isystem /home/oleg/Documents/vkr/vcpkg/installed/x64-linux/include -isystem /usr/local/include/opencv4 -g -std=gnu++11 -o CMakeFiles/vkr.dir/get_data_module/src/record.cpp.o -c /home/oleg/Documents/vkr/get_data_module/src/record.cpp",
+  "file": "/home/oleg/Documents/vkr/get_data_module/src/record.cpp"
+},
+{
+  "directory": "/home/oleg/Documents/vkr/build",
+  "command": "/usr/bin/g++ -isystem /home/oleg/Documents/vkr/vcpkg/installed/x64-linux/include/libusb-1.0 -isystem /home/oleg/Documents/vkr/vcpkg/installed/x64-linux/include -isystem /usr/local/include/opencv4 -g -std=gnu++11 -o CMakeFiles/vkr.dir/get_data_module/src/processor.cpp.o -c /home/oleg/Documents/vkr/get_data_module/src/processor.cpp",
+  "file": "/home/oleg/Documents/vkr/get_data_module/src/processor.cpp"
+},
+{
+  "directory": "/home/oleg/Documents/vkr/build",
+  "command": "/usr/bin/g++ -isystem /home/oleg/Documents/vkr/vcpkg/installed/x64-linux/include/libusb-1.0 -isystem /home/oleg/Documents/vkr/vcpkg/installed/x64-linux/include -isystem /usr/local/include/opencv4 -g -std=gnu++11 -o CMakeFiles/vkr.dir/data_module/src/odom_interval.cpp.o -c /home/oleg/Documents/vkr/data_module/src/odom_interval.cpp",
+  "file": "/home/oleg/Documents/vkr/data_module/src/odom_interval.cpp"
+},
+{
+  "directory": "/home/oleg/Documents/vkr/build",
+  "command": "/usr/bin/g++ -isystem /home/oleg/Documents/vkr/vcpkg/installed/x64-linux/include/libusb-1.0 -isystem /home/oleg/Documents/vkr/vcpkg/installed/x64-linux/include -isystem /usr/local/include/opencv4 -g -std=gnu++11 -o CMakeFiles/vkr.dir/data_module/src/vectors.cpp.o -c /home/oleg/Documents/vkr/data_module/src/vectors.cpp",
+  "file": "/home/oleg/Documents/vkr/data_module/src/vectors.cpp"
+},
+{
+  "directory": "/home/oleg/Documents/vkr/build",
+  "command": "/usr/bin/g++ -isystem /home/oleg/Documents/vkr/vcpkg/installed/x64-linux/include/libusb-1.0 -isystem /home/oleg/Documents/vkr/vcpkg/installed/x64-linux/include -isystem /usr/local/include/opencv4 -g -std=gnu++11 -o CMakeFiles/vkr.dir/process_module/src/frame_data.cpp.o -c /home/oleg/Documents/vkr/process_module/src/frame_data.cpp",
+  "file": "/home/oleg/Documents/vkr/process_module/src/frame_data.cpp"
+}
+]

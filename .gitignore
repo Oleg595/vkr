@@ -1,0 +1,7 @@
+.idea/
+.bag_files/
+.build/
+.vcpkg/
+.cmake/
+.CMakeFiles/
+
