@@ -1,3 +1,0 @@
-/home/oleg/Documents/vkr/build/CMakeFiles/vkr.dir
-/home/oleg/Documents/vkr/build/CMakeFiles/edit_cache.dir
-/home/oleg/Documents/vkr/build/CMakeFiles/rebuild_cache.dir
